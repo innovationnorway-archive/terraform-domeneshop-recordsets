@@ -1,9 +1,9 @@
 terraform {
   required_version = ">= 0.13"
   required_providers {
-    random = {
-      source  = "hashicorp/random"
-      version = ">= 2.2.0"
+    domeneshop = {
+      source  = "innovationnorway/domeneshop"
+      version = ">= 0.1.0"
     }
   }
 }

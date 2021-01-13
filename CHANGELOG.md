@@ -1,3 +1,3 @@
 ## 0.1.0 (Unreleased)
 
-BREAKING CHANGES / FEATURES / ENHANCEMENTS / BUG FIXES:
+- Initial release
